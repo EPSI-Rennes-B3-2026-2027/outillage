@@ -2,8 +2,8 @@
 
 ## Outils pratiques pour la gestion de projet
 
-- notion
-- obsidian
+- [Notion](https://www.notion.com/fr)
+- [Obsidian](https://obsidian.md/)
 
 ## Comprendre les commandes de base
 [Link](./Commandes_De_Base.md)
