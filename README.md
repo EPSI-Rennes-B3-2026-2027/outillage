@@ -6,7 +6,13 @@
 - [Obsidian](https://obsidian.md/)
 
 ## Comprendre les commandes de base
-[Link](./Commandes_De_Base.md)
+- [Link](./Commandes_De_Base.md)
+
+## Cours pour comprendre Git
+
+- Site de base [ici](https://cours.duclos.xyz/?md=./md/versionning/Git.md)
+
+- Site version markdown pur [ici](https://cours.duclos.xyz/md/versionning/Git.md)
 
 ---
 
