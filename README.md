@@ -10,9 +10,12 @@
 
 ## Cours pour comprendre Git
 
-- Site de base [ici](https://cours.duclos.xyz/?md=./md/versionning/Git.md)
-
+- Site de cours d'Erwann [ici](https://cours.duclos.xyz/?md=./md/versionning/Git.md)
 - Site version markdown pur [ici](https://cours.duclos.xyz/md/versionning/Git.md)
+
+- La doc officielle [ici](https://git-scm.com/)
+
+- Exercices pour s'entraîner sur Git [ici](https://gitexercises.fracz.com/)
 
 ---
 
