@@ -1,5 +1,9 @@
 # Outillage
 
+## Github Student Pack
+
+- [Link](./Github_Student_Offers.md)
+
 ## Outils pratiques pour la gestion de projet
 
 - [Notion](https://www.notion.com/fr)
